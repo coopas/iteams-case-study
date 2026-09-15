@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">iTeams — Gestão de equipes</title>
+  <desc id="desc">Case técnico de Eduardo Martins Gonçalves: do aplicativo à infraestrutura.</desc>
+  <rect width="1200" height="300" rx="18" fill="#111116"/>
+  <rect x="48" y="48" width="5" height="204" rx="2" fill="#9966ff"/>
+  <text x="82" y="85" fill="#b5a0df" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">CASE TÉCNICO · FELPSTECH</text>
+  <text x="78" y="155" fill="#f5f3fa" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700">iTeams</text>
+  <text x="82" y="199" fill="#d4cfde" font-family="Segoe UI,Arial,sans-serif" font-size="24">Gestão de equipes. Do aplicativo à infraestrutura.</text>
+  <text x="82" y="244" fill="#a5a0ae" font-family="Segoe UI,Arial,sans-serif" font-size="17">Eduardo Martins Gonçalves · Flutter / TypeScript / PostgreSQL</text>
+  <circle cx="1100" cy="80" r="115" fill="none" stroke="#322444" stroke-width="2"/>
+  <circle cx="1100" cy="80" r="78" fill="none" stroke="#49335f" stroke-width="2"/>
+</svg>
